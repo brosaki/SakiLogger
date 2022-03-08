@@ -1,0 +1,4 @@
+name: SakiLogger
+main: net.manosaki.LoggerMain
+version: 1.0.0
+website: github.com/Manosaki1/SakiLogger
