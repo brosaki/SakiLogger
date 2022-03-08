@@ -2,6 +2,7 @@
 Logs system using Discord Bot and .txt file.
 
 #Settings.yml:
+```yml
 discord-bot:
   toggle: false
   token: ""
