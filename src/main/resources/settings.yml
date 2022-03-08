@@ -1,7 +1,7 @@
 discord-bot:
-  toggle: true
-  token: "OTQ5ODMyMTk3NzY0OTYwMjg3.YiQGKg.GjIq9jevWVzoDPfGbxxhG_1zRhQ"
-  discord-logs-channel: "936062267185852507"
+  toggle: false
+  token: ""
+  discord-logs-channel: ""
 
 logs-file:
   toggle: true
